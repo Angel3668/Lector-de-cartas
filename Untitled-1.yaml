@@ -1,0 +1,5 @@
+Ayúdame a crear en Python un escáner de cartas que tome la carta original recorte donde está el código (dos Variantes) y que lo deposite en un Excel, que sea de manera local sin uso de terceros a la hora de escanear. Debe incluir: 
+- A la hora de ejecutar el programa debe de abrir directo una ventana para seleccionar las imágenes que se van a escanear
+- Una barra de carga, que tenga un botón para cancelar el proceso y un contador de cuantas cartas lleva escaneadas y lo que leyó 
+- El Excel se creara de manera predeterminada en la carpeta de recargas con el nombre de la carpeta de donde se extrajeron las imágenes y si se repite la carpeta se creara una alternativa no se remplazara, el usuario podrá intervenir donde se guardara la carpeta se es que el gusta incluyendo su nombre 
+- Al guardarse el Excel se ejecutara automáticamente si por algo el Excel no pudo guardarse o ejecutarse se mandara al usuario devuelta a la ventana para elegir donde se guarda el Excel y se nombra
